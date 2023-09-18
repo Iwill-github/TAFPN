@@ -1,2 +1,2 @@
 # TAFPN
-Top-down Asymptotic Feature Pyramid
+Top-down Asymptotic Feature Pyramid Network
